@@ -1,3 +1,9 @@
+.loader{
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
 .socket {
   width: 200px;
   height: 200px;
